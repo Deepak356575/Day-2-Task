@@ -19,4 +19,4 @@ Window object represents something like the browser
 Document object is the root of the document itself.
 
 The document object is your html, aspx, php, or other document that will be loaded into the browser.
- The document actually gets loaded inside the window object and has properties available to it like title, URL, cookie, etc.
+The document actually gets loaded inside the window object and has properties available to it like title, URL, cookie, etc.
